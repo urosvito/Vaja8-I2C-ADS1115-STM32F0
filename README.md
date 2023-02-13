@@ -16,3 +16,8 @@ e) SCL  SDA  ADDR  ALRT  VDD
  b) 48 HEX
  
  e) 6.14V
+
+
+KOMENTAR NA DELOVANJE.
+
+Z nalogo nisma imela nikakršnih težav in deluje brezhibno.
